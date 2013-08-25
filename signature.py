@@ -2,7 +2,6 @@
 # Licensed under the MIT license
 
 from __future__ import print_function
-import types
 
 
 _HAS_STAR_ARGS = 0b100
